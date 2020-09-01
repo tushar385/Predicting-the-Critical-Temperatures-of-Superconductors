@@ -1,5 +1,8 @@
 # Predicting-the-Critical-Temperatures-of-Superconductors
 
+## Objective 
+Management has decided to start shipping low-resistance cables to clients around the world. To ensure that the right cables are shipped to the right countries, they would like to predict the critical temperatures of various cables based on certain observed readings.
+
 ## The steps to accomplish this task are:
 
 1.	Open a Colab notebook.
